@@ -4,13 +4,21 @@
 
 // base styles
 @import "./base/reset";
+@import "./base/commond";
 
 // components styles
 @import "./components/section";
 @import "./components/container";
+@import "./components/section-title";
+@import "./components/modal-window";
 
 // layouts styles
 @import "./layouts/page-header";
 @import "./layouts/page-hero";
-@import "./layouts/page-modal";
+@import "./layouts/page-benefits";
+@import "./layouts/page-portfolio";
+@import "./layouts/page-team";
+@import "./layouts/page-customers";
+@import "./layouts/page-filter";
+@import "./layouts/page-projects";
 @import "./layouts/page-footer";
